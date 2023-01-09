@@ -1,6 +1,6 @@
 # Test Case Samples
 
-..................
+.......................................................................................................................................................................
 
 **Description**
 Check if the login works when a person uses a correct user/pass
@@ -18,7 +18,7 @@ User: test
 Pass: 123
 
 
-.................
+.......................................................................................................................................................................
 
 **Description** 
 Check if forgot password functionality works as expected and an email withe reset password link is sent
